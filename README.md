@@ -3,3 +3,5 @@
 ### Descargar y descompactar.
 En caso necesario, solicite al docente la clave para realizar la reintegración de los archivos y código de cada carpeta. Se les solicitará un elemento que __demuestra__ su pertenencia a la clase.
 
+## Otras cuestiones...
+
